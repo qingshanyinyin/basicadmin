@@ -3,12 +3,6 @@ php通用后台
 
 基于[Yii 2 Basic](http://www.yiiframework.com/) [yii2-admin](https://github.com/mdmsoft/yii2-admin) [H-ui.Admin](http://www.h-ui.net/index.shtml) 通用后台.
 
-INSTALLATION
-------------
-
-~~~
-http://localhost/basic/web/
-~~~
 
 ### 直接下载或克隆本项目当做自己的后台模板使用
 
@@ -17,9 +11,6 @@ http://localhost/basic/web/
 ```php
 composer update
 ```
-
-CONFIGURATION
--------------
 
 ### 数据库
 
